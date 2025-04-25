@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder RulesVersion="3" LastSave="2025-04-25T23:38:37.6767444+03:00" FiddlerVersion="6.0.0.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Priority="1" MaxMatchCount="1" Comment="HTTP ToolKit Pro hack [Copy]" Enabled="true" Match="{&quot;matches&quot;:[&quot;%%eyJ0eXBlIjo2LCJrZXkiOiIiLCJjb25kaXRpb24iOiJlcSIsInZhbHVlIjoiR0VUIiwiZW5hYmxlZCI6dHJ1ZSwiY2FzZUluc2Vuc2l0aXZlVmFsdWUiOnRydWUsImNhc2VJbnNlbnNpdGl2ZUtleSI6dHJ1ZSwiaWQiOjB9&quot;,&quot;%%eyJ0eXBlIjo0LCJrZXkiOiIiLCJjb25kaXRpb24iOiJlcSIsInZhbHVlIjoiaHR0cHM6Ly9hcHAuaHR0cHRvb2xraXQudGVjaC9tYWluLmpzIiwiZW5hYmxlZCI6dHJ1ZSwiY2FzZUluc2Vuc2l0aXZlVmFsdWUiOnRydWUsImNhc2VJbnNlbnNpdGl2ZUtleSI6dHJ1ZSwiaWQiOjF9&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;%%eyJ0eXBlIjo1LCJjb25kaXRpb24iOiJyZXBsYWNlIiwia2V5IjoiIiwidmFsdWUiOiIgdHJ1ZSIsImlkIjoiYXpsaW5rZXJhN3giLCJjYXNlSW5zZW5zaXRpdmVLZXkiOnRydWUsImNhc2VJbnNlbnNpdGl2ZVZhbHVlIjp0cnVlLCJleHRyYURhdGEiOnsid2FybmluZ3MiOltdLCJlcnJvcnMiOltdfSwiaXNVbnJlYWNoYWJsZSI6ZmFsc2UsImlzRmluYWwiOmZhbHNlLCJmaW5kIjoiXCJwYXN0X2R1ZVwiIT09KG51bGw9PT0oZT10aGlzLnVzZXIuc3Vic2NyaXB0aW9uKXx8dm9pZCAwPT09ZT92b2lkIDA6ZS5zdGF0dXMpJiZ0aGlzLmlzU3RhdHVzVW5leHBpcmVkIn0=&quot;]" HasFinalAction="False" />
+  </State>
+</AutoResponder>
